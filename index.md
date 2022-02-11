@@ -1,4 +1,4 @@
-## [![icon](https://cdn.cms-twdigitalassets.com/content/dam/about-twitter/global/about-og-image-1200x630.jpg.twimg.768.jpg)](https://twitter.com/aviralrg)
+## [![icon](./resources/Twitter-Image.png)](https://twitter.com/aviralrg)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
